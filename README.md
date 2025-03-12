@@ -2,10 +2,6 @@
 #### **"Bridging Theory and Innovation in Electrical & Electronic Engineering"** 🚀
 ![**"Bridging Theory and Innovation in Electrical & Electronic Engineering"** 🚀](https://media.licdn.com/dms/image/v2/D5616AQH6jz-k-wRMZw/profile-displaybackgroundimage-shrink_350_1400/B56ZWHpIXDHEAY-/0/1741737463293?e=1747267200&v=beta&t=peJg2QelxebVDiHOBmuD5wWfwv_WCbp2Zue82kvulkw)
 
-Here's a professional and engaging **"About Me"** section for your GitHub profile:  
-
----
-
 ### 👋 Hi, I'm Rezoan Ahmed Riam!  
 🚀 **Electrical and Electronic Engineering Student | Embedded Systems Enthusiast | Tech Educator**  
 
@@ -30,13 +26,8 @@ I'm an undergraduate student at **Khulna University of Engineering and Technolog
 ✔️ Collaborate on exciting **EEE & IoT projects**  
 
 ### 🌍 Connect with Me:  
-🔗 **GitHub:** [github.com/yourusername](#)  
-📺 **YouTube:** [Rezoan Ahmed (EEE)](#)  
-📘 **Facebook:** [Rezoan Ahmed HSC](#)  
-
----
-
-You can customize the links and tweak the wording as needed! Would you like me to format it for a **GitHub README.md** file? 😊
+🔗 **GitHub:** [github.com/Riam-22] 
+📺 **YouTube:** [Rezoan Ahmed (EEE)]   
 
 Skills: ### 🛠️ Skills & Expertise    #### ⚡ **Programming & Development**   - C, C++   - Arduino Programming   - Embedded Systems Development   - Microcontroller Programming (Atmega, ESP, STM32)    #### 🔋 **Electronics & Hardware**   - Circuit Design & Simulation (Proteus, Multisim)   - Battery Management Systems   - Power Electronics & Motor Control   - PCB Design & Prototyping    #### 🔗 **Communication Protocols**   - I2C, SPI, UART   - Bluetooth & GSM Modules   - Serial Communication    #### 🎛️ **Sensors & Actuators**   - PWM & Signal Processing   - Stepper & Servo Motor Control   - Temperature & Current Sensors    #### 🖥️ **Software & Tools**   - MATLAB (Basic)   - Proteus & LTspice   - Keil & CodeBlocks   - Git & GitHub    Would you like me to add more details or format it for a **GitHub README.md** file? 😊
 
@@ -44,6 +35,8 @@ Skills: ### 🛠️ Skills & Expertise    #### ⚡ **Programming & Development**
 - 🌱 I’m currently learning PCB Design, Python ,Matlab 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about PCB Design And Simulation  
+- 📫 How to reach me: rezwanahmedriam@gamil.com 
+- 😄 Pronouns: he 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RiaM-22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rezoan-ahmed-riam-9a2939251/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rezoan.ahmed.riam.2024)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UC-nAUHungPJ4iQIspy6Bcaw)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sites.google.com/view/rezoanahmed/home)  
