@@ -1,4 +1,3 @@
-### Hi there 👋, I'm Riam
 #### **"Bridging Theory and Innovation in Electrical & Electronic Engineering"** 🚀
 ![**"Bridging Theory and Innovation in Electrical & Electronic Engineering"** 🚀](https://media.licdn.com/dms/image/v2/D5616AQH6jz-k-wRMZw/profile-displaybackgroundimage-shrink_350_1400/B56ZWHpIXDHEAY-/0/1741737463293?e=1747267200&v=beta&t=peJg2QelxebVDiHOBmuD5wWfwv_WCbp2Zue82kvulkw)
 
